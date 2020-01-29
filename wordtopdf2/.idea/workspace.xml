@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1f2cf87-177b-4cfb-9bec-7d0940a87f6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/CanvasDocentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Componentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Docentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Mallas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Modalidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PeriodosCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PeriodosSga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PlanesCanvasRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/RecursosCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring 1.5.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordtopdf1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordtopdf2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APICanvasProy/.idea/APICanvasProy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APICanvasProy/code/.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APICanvasProy/code/actualizacionsemana/.idea/actualizacionsemana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APICanvasProy/code/canvasproy/.idea/canvasproy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APICanvasProy/code/canvasproy/code/.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Mint/ProyectoUTPL-NLP/NLPcode_Lady/.idea/NLPcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Mint/ProyectoUTPL-NLP/NLPcode_Lady/proyNLP/.idea/proyNLP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Mint/desastresREST/.idea/desastresREST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/depure_fixtures/.idea/depure_fixtures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/ActualizacionCanvasApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/ActualizacionCanvasApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/api/VinfoGeneralController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/api/VinfoGeneralController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/Vactividades.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/Vactividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/model/Vactividades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/VinfoGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/model/VinfoGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/repository/VinfoGeneralRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/repository/VinfoGeneralRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/service/VinfoGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/service/VinfoGeneralService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring 1.5.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring 1.5.4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordtopdf" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordtopdf1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordtopdf1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordtopdf1/src/main/java/wordtopdf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf1/src/main/java/wordtopdf1.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WoRdn1ql10VTmG2kpchFzsqTF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="wordtopdf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wordtopdf2" />
+      <module name="wordtopdf2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.wordtopdf2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f2cf87-177b-4cfb-9bec-7d0940a87f6d" name="Default Changelist" comment="" />
+      <created>1579814050418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579814050418</updated>
+      <workItem from="1579814059789" duration="7642000" />
+      <workItem from="1580133510174" duration="4069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
