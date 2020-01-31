@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1f2cf87-177b-4cfb-9bec-7d0940a87f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/CanvasDocentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Componentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Docentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Mallas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Modalidades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PeriodosCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PeriodosSga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PlanesCanvasRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/RecursosCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring 1.5.4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wordtopdf1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wordtopdf2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/CanvasDocentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Componentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Docentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Mallas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/Modalidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PeriodosCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PeriodosSga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/PlanesCanvasRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/model/RecursosCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/spring 1.5.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../APICanvasProy/.idea/APICanvasProy.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../APICanvasProy/code/.idea/code.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../APICanvasProy/code/actualizacionsemana/.idea/actualizacionsemana.iml" afterDir="false" />
@@ -23,22 +22,28 @@
       <change afterPath="$PROJECT_DIR$/../../Documents/Mint/ProyectoUTPL-NLP/NLPcode_Lady/proyNLP/.idea/proyNLP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Documents/Mint/desastresREST/.idea/desastresREST.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Documents/depure_fixtures/.idea/depure_fixtures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/ActualizacionCanvasApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/ActualizacionCanvasApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/DataSourceConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/api/VinfoGeneralController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/api/VinfoGeneralController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/Vactividades.hbm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/Vactividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/model/Vactividades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/VinfoGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/model/VinfoGeneral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/repository/VinfoGeneralRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/repository/VinfoGeneralRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/service/VinfoGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/service/VinfoGeneralService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring 1.5.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring 1.5.4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wordtopdf" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wordtopdf1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wordtopdf1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wordtopdf1/src/main/java/wordtopdf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wordtopdf1/src/main/java/wordtopdf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/ActualizacionCanvasApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/ActualizacionCanvasApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/canvas/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/api/VinfoGeneralController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/api/VinfoGeneralController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/Vactividades.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/Vactividades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/model/Vactividades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/modell/VinfoGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/model/VinfoGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/repository/VinfoGeneralRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/repository/VinfoGeneralRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/service/VinfoGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/multiple-db/actualizacion-canvas-api/src/main/java/kbs/actualizacioncanvasapi/planes/service/VinfoGeneralService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/spring 1.5.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/spring 1.5.4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/src/main/java/wordtopdf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../API-actualizacion-canvas-Java/wordtopdf1/src/main/java/wordtopdf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wordtopdf2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wordtopdf2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wordtopdf2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wordtopdf2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordtopdf2.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +59,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -67,6 +72,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -83,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.xlstopdf2">
     <configuration name="wordtopdf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wordtopdf2" />
       <module name="wordtopdf2" />
@@ -91,8 +97,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="xlstopdf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xlstopdf2" />
+      <module name="wordtopdf2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.xlstopdf2" />
         <item itemvalue="Application.wordtopdf2" />
       </list>
     </recent_temporary>
@@ -109,6 +123,7 @@
       <updated>1579814050418</updated>
       <workItem from="1579814059789" duration="7642000" />
       <workItem from="1580133510174" duration="4069000" />
+      <workItem from="1580333015631" duration="11669000" />
     </task>
     <servers />
   </component>
